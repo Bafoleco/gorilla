@@ -16,7 +16,6 @@ import argparse
 import sys
 import json
 import openai
-import anthropic
 import multiprocessing as mp
 import os
 import time
