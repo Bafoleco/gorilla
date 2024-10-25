@@ -1,8 +1,6 @@
 import json
 import os
 
-from anthropic import Anthropic
-from anthropic.types import TextBlock, ToolUseBlock
 from bfcl.model_handler.base_handler import BaseHandler
 from bfcl.model_handler.constant import DEFAULT_SYSTEM_PROMPT, GORILLA_TO_OPENAPI
 from bfcl.model_handler.model_style import ModelStyle
