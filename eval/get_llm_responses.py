@@ -18,7 +18,6 @@ import os
 import sys
 import json
 import openai
-import anthropic
 import multiprocessing as mp
 import time
 import wandb
